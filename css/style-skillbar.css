@@ -1,0 +1,34 @@
+
+.skills-holder {
+    padding: 0 11px 20px !important;
+}
+.skill {
+    margin-bottom: 6px;
+}
+.skill label {
+    font-size: 20px;
+    line-height: 30px;
+}
+.skill-bar {
+    background-color: #4B4B4B;
+    height: 10px;
+    width: 100%;
+}
+.skill-bar .level {
+    background-color: #444;
+    border-color: #222;
+    border-image: none;
+    border-right: 1px solid #111;
+    border-style: solid;
+    border-width: 1px;
+    height: 10px;
+    width: 0;
+}
+
+.level.html { background-color: white; border-color: white; }
+.level.css { background-color: #4B4B4B; border-color: #4B4B4B; }
+.level.jquery { background-color: #4B4B4B; border-color: #4B4B4B; }
+.level.javascript { background-color: #4B4B4B; border-color: #4B4B4B; }
+.level.ajax { background-color: #4B4B4B; border-color: #4B4B4B; }
+.level.php { background-color: #4B4B4B; border-color: #4B4B4B; }
+.level.mysql { background-color: #4B4B4B; border-color: #4B4B4B; }
